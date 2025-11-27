@@ -11,13 +11,12 @@ I am passionate about technology and practical problem-solving. My journey inclu
 - Networking concepts (VPC, subnets, routing)
 - Security and IAM fundamentals
 - Troubleshooting and incident analysis
-- Git, GitHub, documentation, and version control
 - Basic Python scripting
 - AI-assisted productivity and automation
 
 ## Tools & Technologies
 - AWS
-- GitHub
+- Netlify
 - Linux/CLI
 - VS Code
 - Canva AI
