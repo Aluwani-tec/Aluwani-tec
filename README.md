@@ -1,19 +1,46 @@
 # Olivia Aluwani Mahuluhulu
 
-I am a dedicated and self-motivated professional developing technical skills in cloud computing, IT support, and digital systems. My work is focused on building a strong foundation in cloud technologies while continuously improving through hands-on practice and structured learning.
+I am a focused and self-motivated professional developing technical skills in cloud computing, IT support, and digital systems. My work is driven by discipline, continuous learning, and a clear commitment to building a strong foundation in modern technology.
 
 ## About Me
-I am passionate about technology and committed to building a long-term career in the cloud and IT support space. My learning approach is practical and disciplined, with a focus on understanding how cloud infrastructure, networking, security, and automation work together.
+I am passionate about technology and practical problem-solving. My journey includes hands-on cloud learning, digital system development, and structured technical training. I am committed to transitioning into IT Support, Cloud Support, and later Cloud Engineering roles, backed by consistent daily practice and real project experience.
 
-## What I’m Working On
-- Building a practical cloud portfolio through AWS labs and projects  
-- Strengthening Linux and command-line skills  
-- Developing a solid understanding of networking and security  
-- Documenting my AWS re/Start journey cleanly and professionally  
+## Skills
+- Cloud fundamentals (AWS)
+- Linux basics and command-line navigation
+- Networking concepts (VPC, subnets, routing)
+- Security and IAM fundamentals
+- Troubleshooting and incident analysis
+- Git, GitHub, documentation, and version control
+- Basic Python scripting
+- AI-assisted productivity and automation
+
+## Tools & Technologies
+- AWS
+- GitHub
+- Linux/CLI
+- VS Code
+- Canva AI
+- WordPress  
+- Python
+- Networking tools
+
+## Hobbies & Interests
+- Deep learning and self-study  
+- Exploring cybersecurity concepts  
+- Building small cloud and AI projects  
+- Designing digital content for STEM education  
+- Researching new business and tech ideas  
+- Problem-solving challenges and puzzles  
+
+## Active Projects
+- **AWS re/Start Portfolio:** Labs, notes, CloudQuest tasks, and structured technical documentation  
+- **Rebedu Store (Education Tech):** Building structured STEM checklists, catalogue layouts, and backend organization  
+- **Noxora Group Tech:** Early-stage digital tools and AI system concepts  
+- **AI Productivity Workflows:** Exploring how AI supports business, documentation, and automation  
 
 ## Career Direction
-I aim to start in cloud or IT support roles and continue progressing into cloud engineering. My values include discipline, growth, and continuous learning.
+My goal is to begin in technical support or cloud support roles and progress into cloud engineering. I prioritise growth, discipline, and continuous improvement in everything I do.
 
 ## Contact
 Email: mikoalu@gmail.com
-
